@@ -1,16 +1,43 @@
-## Hi there 👋
+# Panos Papamichalopoulos
 
-<!--
-**panos-papamichalopoulos/panos-papamichalopoulos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Student with an academic direction toward Computer Science.
 
-Here are some ideas to get you started:
+I am currently developing my programming foundations through Python and personal projects, with long-term interests in Software Engineering, Artificial Intelligence, and Machine Learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+
+- Python
+- Programming fundamentals
+- Problem solving
+- Personal software projects
+- Git & GitHub
+
+## Experience
+
+Approximately 3 years of project-based experience with `discord.py`, primarily through Discord bots, automation, event-driven systems, and API integrations.
+
+## Currently Building
+
+### SysWatch
+
+A lightweight Python system monitor for real-time:
+
+- CPU usage
+- Memory usage
+- Storage
+- Network activity
+- Running processes
+
+## Academic Direction
+
+**Computer Science**
+
+Long-term areas of interest:
+
+- Software Engineering
+- Artificial Intelligence
+- Machine Learning
+
+## Portfolio
+
+🌐 https://www.panospapamichalopoulos.com
