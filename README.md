@@ -16,28 +16,21 @@ I am currently developing my programming foundations through Python and personal
 
 Approximately 3 years of project-based experience with `discord.py`, primarily through Discord bots, automation, event-driven systems, and API integrations.
 
-## Currently Building
+## `./fields --active`
 
-### SysWatch
+```text
+python/
+├── programming_fundamentals
+├── automation
+├── scripting
+├── api_integration
+└── project_development
 
-A lightweight Python system monitor for real-time:
-
-- CPU usage
-- Memory usage
-- Storage
-- Network activity
-- Running processes
-
-## Academic Direction
-
-**Computer Science**
-
-Long-term areas of interest:
-
-- Software Engineering
-- Artificial Intelligence
-- Machine Learning
-
-## Portfolio
-
-🌐 https://www.panospapamichalopoulos.com
+discord.py/
+├── command_systems
+├── event_driven_programming
+├── permissions
+├── automation
+├── embeds
+├── external_api_integration
+└── bot_structure
