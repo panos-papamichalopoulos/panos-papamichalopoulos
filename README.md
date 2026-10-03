@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./image.png" alt="Panos Papamichalopoulos" width="250%" />
-</p>
+
 
 # Panos Papamichalopoulos
 
