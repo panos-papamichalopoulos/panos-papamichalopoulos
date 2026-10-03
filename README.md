@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./image.png" alt="Panos Papamichalopoulos" width="100%" />
+  <img src="./image.png" alt="Panos Papamichalopoulos" width="650%" />
 </p>
 
 # Panos Papamichalopoulos
