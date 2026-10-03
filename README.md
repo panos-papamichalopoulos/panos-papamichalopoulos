@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./image.png" alt="Panos Papamichalopoulos" width="100%" />
+</p>
+
 # Panos Papamichalopoulos
 
 Student with an academic direction toward Computer Science.
